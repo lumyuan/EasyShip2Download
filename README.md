@@ -14,6 +14,6 @@ EasyShip2 Repository For Download
 - [x] Update progress notification (need to allow software to start itself)
 - [x] Intelligent prompt patch boot
 
-* Please download the installation experience for more features.
+## Please download the installation experience for more features.
 
 # <a href="https://github.com/lumyuan/EasyShip2Download/releases">Download</a>
